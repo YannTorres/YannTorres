@@ -8,7 +8,7 @@
 - In my free time I like to play online games, read books and watch anime
 
 <div>
-  <a href="https://mail.google.com/mail/u/0/?pli=1#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:yanngames68@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
 
