@@ -1,6 +1,6 @@
-# Hi there 👋 Wellcome to my Profile 💻🎮
+## Hi there 👋 Wellcome to my Profile 💻🎮
 
-## About me:
+### About me:
 - My name is Yann Torres
 - Im 17 years old
 - I'm learning front-end development (HTML, CSS, JavaScript)
