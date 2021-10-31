@@ -7,10 +7,11 @@
 - Pronouns: he / him
 - In my free time I like to play online games, read books and watch anime
 
+### Contact me:
 <div>
   <a href="https://www.linkedin.com/in/yann-torres-aa5a28211/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-
+  <a href="https://www.instagram.com/yann.torress/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  
 
 
 </div>
