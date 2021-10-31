@@ -1,4 +1,12 @@
-### Hi there 👋 My name´s Yann Torres
+### Hi there 👋 Wellcome to my Profile 💻🎮
+
+##About me:
+- My name is Yann Torres
+- Im 17 years old
+- I'm learning front-end development (HTML, CSS, JavaScript)
+- Pronouns: he / him
+- In my free time I like to play online games, read books and watch anime
+
 
 <!--
 **YannTorres/YannTorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
