@@ -7,6 +7,7 @@
 - Pronouns: he / him
 - In my free time I like to play online games, read books and watch anime
 
+<a href="https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzGlkPcnJwFlLdGqJqlXbVrrBhpq" target=_blank"><img src=https://mail.google.com/mail/u/0/?pli=1#inbox/FMfcgzGlkPcnJwFlLdGqJqlXbVrrBhpq></a>
 
 <!--
 **YannTorres/YannTorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
