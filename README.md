@@ -6,7 +6,7 @@
 - Im 17 years old
 - I'm learning front-end development
 - Pronouns: he / him
-- In my free time I like to play online games, read books and watch anime
+- In my free time I like to play online games, read books and watch series
 
 
 
