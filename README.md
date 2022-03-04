@@ -4,7 +4,7 @@
 
 - My name's Yann Torres
 - Im 17 years old
-- I'm learning front-end development
+- I'm graduating in Computer Science 1/8
 - Pronouns: he / him
 - In my free time I like to play online games, read books and watch series
 
