@@ -3,8 +3,8 @@
 ### About me:
 
 - My name's Yann Torres
-- Im 18 years old
-- I'm graduating in Computer Science 3/8
+- Im 19 years old
+- I'm graduating in Computer Science 4/8
 - Pronouns: he / him
 - In my free time I like to play online games, read books and watch series
 
