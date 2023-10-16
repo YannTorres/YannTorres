@@ -8,7 +8,7 @@
 - Pronouns: he / him
 - In my free time I like to play online games, read books and watch series
 
-- Currently studying JavaScript and Node.js
+- Currently studying React.js, TypeScript, Node.js, Java
 
 ### Languages and Tools:
 <div style="display: inline_block">
