@@ -6,7 +6,7 @@
 - Im 19 years old
 - I'm graduating in Computer Science 5/8
 - Pronouns: he / him
-- Currently studying React.js, TypeScript,
+- Currently studying React.js and TypeScript
 
 ### Languages and Tools:
 <div style="display: inline_block">
