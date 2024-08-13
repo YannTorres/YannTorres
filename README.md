@@ -2,11 +2,11 @@
 
 ### About me:
 
-- My name's Yann Torres
-- Im 19 years old
-- I'm graduating in Computer Science 5/8
-- Pronouns: he / him
-- Currently studying React.js and TypeScript
+- My name's Yann Torres.
+- I'm 20 years old.
+- Graduating in Computer Science 6/8.
+- Pronouns: he / him.
+- Currently studying .NET, TypeScript and React.js.
 
 ### Languages and Tools:
 <div style="display: inline_block">
